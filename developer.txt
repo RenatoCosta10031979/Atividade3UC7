@@ -1,2 +1,2 @@
-Branch Develop
+Branch Developer
 Ela serve como uma linha do tempo com os últimos desenvolvimentos, isso significa que ela possui funcionalidades que ainda não foram publicadas e que posteriormente vão ser associadas com a branch Master.
