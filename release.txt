@@ -1,0 +1,2 @@
+Branch Release
+Uma vez que uma etapa de desenvolvimento esteja concluída, teremos em nossa Branch Develop todas as features e Hotfix mesclados.
