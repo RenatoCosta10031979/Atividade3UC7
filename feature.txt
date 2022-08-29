@@ -1,0 +1,2 @@
+Branch Feature
+São branches utilizadas para o desenvolvimento de funcionalidades específicas. 

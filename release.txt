@@ -1,2 +1,5 @@
 Branch Release
 Uma vez que uma etapa de desenvolvimento esteja concluída, teremos em nossa Branch Develop todas as features e Hotfix mesclados.
+Então, se quisermos ter todas essas novas funcionalidades na Branch Master, teremos que criar uma Branch de Release.
+
+A Branch Release serve como ponte para fazer o merge da Develop para a Master. Ela funciona como ambiente de homologação e é removida após realizar os testes do merge com a Master. Caso seja encontrado algum bug e haja alguma alteração, ela também deve ser sincronizada com a Develop.
